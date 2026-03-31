@@ -13,4 +13,6 @@
   
 A new player role, the Awarder, is created. The role consists in counting Awards and transfer them in between players.
 
-This rules and graphical change log can be found at https://github.com/cieok/7-nomic
+This rules and graphical change log can be found at https://github.com/cieok/7-nomic    
+  
+Changes:
