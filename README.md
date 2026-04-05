@@ -1,5 +1,6 @@
 # 7-nomic
 ## Current rules
+### Basics
 `1.` Rules should be short.  
 
 `2.` Players suggest rules by posting a suggestion for a rule change to the ⁠⁠7-nomic-voting channel.  
@@ -18,9 +19,24 @@
 
 `10.` Any poll displaying "Edited" next to the Poll ID is rejected.   
 
-`11.` each new player starts with 10 Experience Awards. Existing players also have 10 Experience Awards effective at the enactment of this rule. Returning players are  given 10 Experience Awards at their first ever return, but not for subsequent returns.  
-  
+`11.` each new player starts with 10 Experience Awards. Existing players also have 10 Experience Awards effective at the enactment of this rule. Returning players are  given 10 Experience Awards at their first ever return, but not for subsequent returns. 
+
 A new player role, the Awarder, is created. The role consists in counting Awards and transfer them in between players.
+
+`12.` Players may record major rewards in their profile.  
+
+`13.` A reward may be proposed alongside any rule change.  
+
+`14.` Every three months, a Nomic Comedy Award shall be granted to the author of the most humorous contribution. 
+
+`15.` Players earn one coin per minor improvement.  
+
+`16.` The quarterly Insight Award recognizes a player whose gameplay inadvertently demonstrates a new, practical, real-world concept to the voting player.  
+
+`17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
+
+### Details 1
+### Details 2
 
 This rules and nice change log can be found at https://github.com/cieok/7-nomic    
   
