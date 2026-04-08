@@ -17,8 +17,6 @@
 
 `9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
-`10.` Any poll displaying "Edited" next to the Poll ID is rejected.   
-
 `11.` each new player starts with 10 Experience Awards. Existing players also have 10 Experience Awards effective at the enactment of this rule. Returning players are  given 10 Experience Awards at their first ever return, but not for subsequent returns. 
 
 A new player role, the Awarder, is created. The role consists in counting Awards and transfer them in between players.
@@ -38,6 +36,8 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails.  
 
 ### Details 1
+`101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
+
 ### Details 2
 
 This rules and nice change log can be found at https://github.com/cieok/7-nomic    
