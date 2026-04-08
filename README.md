@@ -35,6 +35,8 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
 
+`18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails.  
+
 ### Details 1
 ### Details 2
 
