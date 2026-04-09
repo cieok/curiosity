@@ -9,7 +9,7 @@
 
 `5.` A proposal comes into effect if it has more positive than negative votes after 48 hours. If it does not have enough votes at that time, it is rejected and will not come into effect even if it later gains the required amount of votes.  
 
-`6.` A valid poll is created by filling in the proposal text within the following message and posting: `/timepoll question: Proposal:` [Text] `time: 2d answer-1: Yes answer-2: No answer-3: Abstain`  
+`6.` Valid poll must include the full proposal text or a clear, unambiguous reference to the proposal. Valid poll must be also created by filling in the proposal text or reference within the following message and posting: `/timepoll question: Proposal:` [Text or reference] `time: 2d answer-1: Yes answer-2: No answer-3: Abstain`  
 
 `7.` Game play continues after a win.  
 
