@@ -38,6 +38,8 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
 
+`102.` Edited proposals are rejected.
+
 ### Details 2
 
 This rules and nice change log can be found at https://github.com/cieok/7-nomic    
