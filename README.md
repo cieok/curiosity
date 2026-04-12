@@ -40,7 +40,6 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `104.` The rules should always, by player action, be able to be changed in part.  
 
-
 ### Details 2
 
 This rules and nice change log can be found at https://github.com/cieok/7-nomic    
