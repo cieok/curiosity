@@ -1,4 +1,5 @@
-# 7-nomic
+# Curiosity
+A game of Nomic.
 ## Current rules
 ### Basics
 `2.` Players suggest rules by posting a suggestion for a rule change to the ⁠⁠7-nomic-voting channel.  
@@ -6,10 +7,6 @@
 `5.` A proposal passes if it has more 'yes' than 'no' votes by the time the poll closes.  
 
 `6.` Valid poll must include the full proposal text or a clear, unambiguous reference to the proposal. Valid poll must be also created by filling in the proposal text or reference within the following message and posting: `/timepoll question: Proposal:` [Text or reference] `time: 2 days answer-1: Yes answer-2: No answer-3: Abstain`  
-
-`7.` Game play continues after a win.  
-
-`8.` There are 3 text channels for this game: one for general chat and proposal discussion, the second where all proposals are written to vote on them, and a third one solely for currently active rules, copied exactly as written in the proposals.  
 
 `9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
@@ -39,6 +36,12 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `103.` Rules should be short.  
 
 `104.` The rules should always, by player action, be able to be changed in part.  
+
+`105.` Game play continues after a win.  
+
+`106.` There are 3 text channels for this game: one for general chat and proposal discussion, the second where all proposals are written to vote on them, and a third one solely for currently active rules, copied exactly as written in the proposals.  
+
+
 
 ### Details 2
 
