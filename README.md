@@ -2,7 +2,7 @@
 A game of Nomic.
 ## Current rules
 ### Basics
-`2.` Players suggest rules by posting a suggestion for a rule change to the ⁠⁠7-nomic-voting channel.  
+`2.` Players submit rule proposals by posting final drafts in the ⁠#curiosity-voting channel.
 
 `5.` A proposal passes if it has more 'yes' than 'no' votes by the time the poll closes.  
 
