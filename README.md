@@ -41,8 +41,6 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `106.` There are 3 text channels for this game: one for general chat and proposal discussion, the second where all proposals are written to vote on them, and a third one solely for currently active rules, copied exactly as written in the proposals.  
 
-
-
 ### Details 2
 ## Rules administration
 This rules and nice change log can be found at https://github.com/cieok/7-nomic    
