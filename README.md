@@ -4,7 +4,7 @@ A game of Nomic.
 ### Basics
 `2.` Players submit rule proposals by posting final drafts in the ⁠#curiosity-voting channel.
 
-`5.` A proposal passes if it has more 'yes' than 'no' votes by the time the poll closes.  
+`5.` For a poll that changes the ruleset to pass, number of 'yes' votes must be greater than the sum of 'no' votes plus the Cohesion Score at the time the poll concludes: 'yes' votes > ('no' votes + Cohesion Score).  
 
 `6.` Valid poll must include the full proposal text or a clear, unambiguous reference to the proposal. Valid poll must be also created by filling in the proposal text or reference within the following message and posting: `/timepoll question: Proposal:` [Text or reference] `time: 2 days answer-1: Yes answer-2: No answer-3: Abstain`  
 
@@ -26,7 +26,11 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
 
-`18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails.  
+`18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails. 
+
+`19.` The Cohesion Score is a value with a minimum of 0.  
+
+`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
 
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
