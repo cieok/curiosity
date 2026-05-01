@@ -6,7 +6,9 @@ A game of Nomic.
 
 `5.` For a poll that changes the ruleset to pass, number of 'yes' votes must be greater than the sum of 'no' votes plus the Cohesion Score at the time the poll concludes: 'yes' votes > ('no' votes + Cohesion Score).  
 
-`6.` Valid poll must include the full proposal text or a clear, unambiguous reference to the proposal. Valid poll must be also created by filling in the proposal text or reference within the following message and posting: `/timepoll question: Proposal:` [Text or reference] `time: 2 days answer-1: Yes answer-2: No answer-3: Abstain`  
+`6.` A valid poll must include the full proposal text or an unambiguous reference to the immediately preceding message block, specifying the number of rule changes therein.
+To create a valid poll, the following command must be edited only in the bracketed section and posted:
+`/timepoll question: `[Proposal full text or "The X rule change(s) immediately above"]` time: 2 days answer-1: Yes answer-2: No answer-3: Abstain`
 
 `9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
