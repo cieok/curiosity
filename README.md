@@ -34,6 +34,8 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
 
+### Awards
+
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
 
