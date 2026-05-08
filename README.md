@@ -14,7 +14,6 @@ To create a valid poll, the following command must be edited only in the bracket
 
 `20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
 
-
 ### Awards
 
 `9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
@@ -36,8 +35,6 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
 
 `18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails. 
-
-
 
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
