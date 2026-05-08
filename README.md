@@ -10,6 +10,13 @@ A game of Nomic.
 To create a valid poll, the following command must be edited only in the bracketed section and posted:
 `/timepoll question: `[Proposal full text or "The X rule change(s) immediately above"]` time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain`
 
+`19.` The Cohesion Score is a value with a minimum of 0.  
+
+`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
+
+
+### Awards
+
 `9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
 `11.` each new player starts with 10 Experience Awards. Existing players also have 10 Experience Awards effective at the enactment of this rule. Returning players are  given 10 Experience Awards at their first ever return, but not for subsequent returns. 
@@ -30,11 +37,7 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails. 
 
-`19.` The Cohesion Score is a value with a minimum of 0.  
 
-`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
-
-### Awards
 
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
