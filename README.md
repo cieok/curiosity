@@ -28,7 +28,7 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `14.` Every three months, a Nomic Comedy Award shall be granted to the author of the most humorous contribution. 
 
-`15.` Players earn one fulfillment point for every minor improvement.  
+`15.` Players earn one dopamine, one serotonin, one oxytocin and one endorphin for every minor improvement.  
 
 `16.` The quarterly Insight Award recognizes a player whose gameplay inadvertently demonstrates a new, practical, real-world concept to the voting player.  
 
