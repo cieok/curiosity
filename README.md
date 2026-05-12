@@ -12,7 +12,9 @@ To create a valid poll, the following command must be edited only in the bracket
 
 `19.` The Cohesion Score is a value with a minimum of 0.  
 
-`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1. Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.  
+`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1.   
+
+`21.` Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.5 .
 
 ### Awards
 
