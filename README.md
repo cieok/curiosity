@@ -6,9 +6,8 @@ A game of Nomic.
 
 `5.` For a poll that changes the ruleset to pass, number of 'yes' votes must be greater than the sum of 'no' votes plus the Cohesion Score at the time the poll concludes: 'yes' votes > ('no' votes + Cohesion Score).  
 
-`6.` A valid poll must include the full proposal text or an unambiguous reference to the immediately preceding message block, specifying the number of rule changes therein.
-To create a valid poll, the following command must be edited only in the bracketed section and posted:
-`/timepoll question: `[Proposal full text or "The X rule change(s) immediately above"]` time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain`
+`6.` To create a valid poll, only the bracketed section of the following command may be edited before posting:
+`/timepoll question:` [Proposal full text] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain`  
 
 `19.` The Cohesion Score is a value with a minimum of 0.  
 
@@ -50,6 +49,9 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `105.` Game play continues after a win.  
 
 `106.` There are 3 text channels for this game: one for general chat and proposal discussion, the second where all proposals are written to vote on them, and a third one solely for currently active rules, copied exactly as written in the proposals.  
+
+`107.` To create a valid poll by reference, an unambiguous reference to the immediately preceding message block must be provided, specifying the number of rule changes therein. Only the bracketed section of the following command may be edited before posting:
+`/timepoll question:` ["The X rule change(s) immediately above"] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain`
 
 ### Details 2
 ## Rules administration
