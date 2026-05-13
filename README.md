@@ -55,6 +55,8 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 ### Details 2
 ## Rules administration
-This rules and nice change log can be found at [github.com/cieok/curiosity](<https://github.com/cieok/curiosity>)    
-  
-Changes to previous rules are:
+These rules are also at [github.com/cieok/curiosity](<https://github.com/cieok/curiosity>). Pull request are very welcome and very optional.  
+
+Change log is at [github.com/cieok/curiosity/commits/main](<https://github.com/cieok/curiosity/commits/main/>)
+
+Last change is at [github.com/cieok/curiosity/commit/main](<https://github.com/cieok/curiosity/commit/main>)
