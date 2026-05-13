@@ -37,6 +37,11 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails. 
 
+### Subgames
+`30.` There is a 32x32 grid of ASCII characters maintained by the Artist, a new player role.  
+
+`31.` A player can spend a serotonin to change any location on the grid to any character.
+
 ### Details 1
 `101.` Any poll displaying "Edited" next to the Poll ID is rejected.   
 
