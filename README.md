@@ -69,7 +69,15 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `107.` To create a valid poll by reference, an unambiguous reference to the immediately preceding message block must be provided, specifying the number of rule changes therein. Only the bracketed section of the following command may be edited before posting:
 `/timepoll question:` ["The X rule change(s) immediately above"] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
 
-### Details 2
+### Details 2 
+## Credits
+|Name    |Credits|
+|:-------|--:|
+| kambri | 1 |
+|     4ˢᵗ| 1 |
+|Michael | 1 |
+|emurphy | 2 |
+
 ## Rules administration
 These rules are also at [github.com/cieok/curiosity](<https://github.com/cieok/curiosity>). Pull requests are very welcome and entirely optional.    
 
