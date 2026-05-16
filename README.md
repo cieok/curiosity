@@ -2,29 +2,29 @@
 A game of Nomic.
 ## Current rules
 ### Basics
-`2.` Players submit rule proposals by posting final drafts in the ⁠#curiosity-voting channel.
+`1.` Players submit rule proposals by posting final drafts in the ⁠#curiosity-voting channel.
 
-`5.` For a poll that changes the ruleset to pass, the total weight of 'yes' votes must be greater than the sum of the total weight of 'no' votes plus the Cohesion Score at the time the poll concludes: Total 'yes' weight > (Total 'no' weight + Cohesion Score).
-
-`6.` To create a valid poll, only the bracketed section of the following command may be edited before posting:
+`2.` To create a valid poll, only the bracketed section of the following command may be edited before posting:
 `/timepoll question:` [Proposal full text] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
 
-`19.` The Cohesion Score is a value with a minimum of 0.  
+`3.` The cost to cast a vote of weight n is n^2 credits (e.g., 1 credit = weight 1; 4 credits = weight 2).  
 
-`20.` Each day at 00:00 UTC, the Cohesion Score decreases by 1.   
+`4.` Abstaining costs 0 credits.  
 
-`21.` Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.5 .
-
-`22.` The cost to cast a vote of weight n is n^2 credits (e.g., 1 credit = weight 1; 4 credits = weight 2).  
-
-`23.` Abstaining costs 0 credits.  
-
-`24.` Players are limited to a maximum balance of 5 credits.  
-
-`25.` Credits are calculated at the conclusion of a poll:  
+`5.` Credits are calculated at the conclusion of a poll:  
   a. Every participant first receives 2 credits.  
   b. Credits for the selected weight are then subtracted from their balance.   
   c. If a player has an insufficient number of credits for their chosen weight, a lower weight is automatically selected.  
+
+`6.` Players are limited to a maximum balance of 5 credits.  
+
+`7.` Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.5 .
+
+`8.` For a poll that changes the ruleset to pass, the total weight of 'yes' votes must be greater than the sum of the total weight of 'no' votes plus the Cohesion Score at the time the poll concludes: Total 'yes' weight > (Total 'no' weight + Cohesion Score).
+
+`9.` Each day at 00:00 UTC, the Cohesion Score decreases by 1.   
+
+`10.` The Cohesion Score is a value with a minimum of 0.  
 
 ### Awards
 
