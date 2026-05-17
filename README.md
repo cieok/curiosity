@@ -71,10 +71,10 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 ## Credits
 |Name    |Credits|
 |:-------|--:|
-| kambri | 1 |
-|     4ˢᵗ| 1 |
-|Michael | 1 |
-|emurphy | 2 |
+| kambri | 2 |
+|     4ˢᵗ| 2 |
+|Michael | 2 |
+|emurphy | 4 |
 
 ## Rules administration
 These rules are also at [github.com/cieok/curiosity](<https://github.com/cieok/curiosity>). Pull requests are very welcome and entirely optional.    
