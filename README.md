@@ -34,8 +34,6 @@ A game of Nomic.
 
 A new player role, the Awarder, is created. The role consists in counting Awards and transfer them in between players.
 
-`12.` Players may record major rewards in their profile.  
-
 `13.` A reward may be proposed alongside any rule change.  
 
 `14.` Every three months, a Nomic Comedy Award shall be granted to the author of the most humorous contribution. 
