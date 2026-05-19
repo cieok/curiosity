@@ -5,7 +5,7 @@ A game of Nomic.
 `1.` Players submit rule proposals by posting final drafts in the ⁠#curiosity-voting channel.
 
 `2.` To create a valid poll, only the bracketed section of the following command may be edited before posting:
-`/timepoll question:` [Proposal full text] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
+`/timepoll question: [Proposal full text] time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
 
 `3.` The cost to cast a vote of weight n is n^2 credits (e.g., 1 credit = weight 1; 4 credits = weight 2).  
 
@@ -65,7 +65,7 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 `106.` There are 3 text channels for this game: one for general chat and proposal discussion, the second where all proposals are written to vote on them, and a third one solely for currently active rules, copied exactly as written in the proposals.  
 
 `107.` To create a valid poll by reference, an unambiguous reference to the immediately preceding message block must be provided, specifying the number of rule changes therein. Only the bracketed section of the following command may be edited before posting:
-`/timepoll question:` ["The X rule change(s) immediately above"] `time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
+`/timepoll question: ["The X rule change(s) immediately above"] time: 48 hours answer-1: Yes answer-2: No answer-3: Abstain answer-4: Yes weight 2 answer-5: No weight 2`  
 
 ### Details 2 
 ## Credits
