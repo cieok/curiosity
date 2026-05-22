@@ -24,7 +24,10 @@ A game of Nomic.
 
 `9.` Each day at 00:00 UTC, the Cohesion Score decreases by 1.   
 
-`10.` The Cohesion Score is a value with a minimum of 0.  
+`10.` The Cohesion Score is a value with a minimum of 0. 
+
+
+`12.` A player can become a role by proposal. If the player specified to become a role votes against on said proposal, the proposal automatically fails. 
 
 ### Awards
 
@@ -44,7 +47,6 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
 
-`18.` A player can become the Awarder by proposal. If the player specified to become the Awarder votes against on said proposal, the proposal automatically fails. 
 
 ### Subgames
 `30.` There is a 32x32 grid of ASCII characters maintained by the Artist, a new player role.  
@@ -69,10 +71,10 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 ### Details 2 
 ## Credits
-`kambri   2`  
-`4ˢᵗ      2`  
-`Michael  2`  
-`emurphy  4`  
+`kambri   4`  
+`4ˢᵗ      4`  
+`Michael  4`  
+`emurphy  5`  
 
 ## Rules administration
 These rules are also at [github.com/cieok/curiosity](<https://github.com/cieok/curiosity>). Pull requests are very welcome and entirely optional.    
