@@ -11,12 +11,10 @@ A game of Nomic.
 
 `4.` Abstaining costs 0 credits.  
 
-`5.` Credits are calculated at the conclusion of a poll:  
-  a. Every participant first receives 2 credits.  
-  b. Credits for the selected weight are then subtracted from their balance.   
-  c. If a player has an insufficient number of credits for their chosen weight, a lower weight is automatically selected.  
-
-`6.` Players are limited to a maximum balance of 5 credits.  
+`5.` At the conclusion of a poll, credits are updated in this order:  
+  a. Every player who voted receives 2 credits.  
+  b. Reduce the player balance to the maximum limit of 5 credits if it goes over.  
+  c. Deduct credits for the selected weight. If a player cannot afford their chosen weight, automatically select the highest affordable weight instead.
 
 `7.` Whenever a poll that changes the ruleset passes, the Cohesion Score increases by 1.5 .
 
@@ -25,7 +23,6 @@ A game of Nomic.
 `9.` Each day at 00:00 UTC, the Cohesion Score decreases by 1.   
 
 `10.` The Cohesion Score is a value with a minimum of 0. 
-
 
 `12.` A player can become a role by proposal. If the player specified to become a role votes against on said proposal, the proposal automatically fails. 
 
