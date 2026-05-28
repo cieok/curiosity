@@ -28,7 +28,6 @@ A game of Nomic.
 
 ### Awards
 
-`9.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
 `11.` each new player starts with 10 Experience Awards. Existing players also have 10 Experience Awards effective at the enactment of this rule. Returning players are  given 10 Experience Awards at their first ever return, but not for subsequent returns. 
 
@@ -42,8 +41,9 @@ A new player role, the Awarder, is created. The role consists in counting Awards
 
 `16.` The quarterly Insight Award recognizes a player whose gameplay inadvertently demonstrates a new, practical, real-world concept to the voting player.  
 
-`17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.
+`17.` The Counteragent Star may be awarded by vote to any player who identifies a systemic vulnerability and enacts rules to mitigate it.  
 
+`18.` The Elegance Award recognizes players whose rule proposals streamline the game for newcomers while maintaining or refining core mechanics.  
 
 ### Subgames
 `30.` There is a 32x32 grid of ASCII characters maintained by the Artist, a new player role.  
